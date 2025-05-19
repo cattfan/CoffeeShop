@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Shop.cshtml",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Products\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T00:59:08.758Z",
+              "EditorCaption": ""
             }
           ]
         }
