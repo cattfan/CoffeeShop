@@ -5,6 +5,170 @@
       "PackagePath": "staticwebassets\\CoffeeShop.ayx1nq4ppl.bundle.scp.css"
     },
     {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\js\\navbar-dropdown.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "PackagePath": "staticwebassets\\assets\\formoid\\formoid.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee-beans-2258839-960.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\hashes.json",
+      "PackagePath": "staticwebassets\\assets\\images\\hashes.json"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mbr-1920x1372.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "PackagePath": "staticwebassets\\assets\\mobirise\\css\\mbr-additional.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\parallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\parallax\\jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\smoothscroll\\smooth-scroll.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\socicon\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff2"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
+    },
+    {
+      "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\assets\\ytplayer\\index.js",
+      "PackagePath": "staticwebassets\\assets\\ytplayer\\index.js"
+    },
+    {
       "Id": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

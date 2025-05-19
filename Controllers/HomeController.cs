@@ -1,4 +1,6 @@
 using System.Diagnostics;
+using coffeeshop.Models.Services;
+using Coffeeshop.Models.interfaces;
 using CoffeeShop.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,15 +9,16 @@ namespace CoffeeShop.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private IProductRepository productRepository;
+        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository)
         {
             _logger = logger;
+            this.productRepository = productRepository;
         }
 
         public IActionResult Index()
         {
-            return View();
+            return View(productRepository.GetTrendingProducts());
         }
 
         public IActionResult Privacy()

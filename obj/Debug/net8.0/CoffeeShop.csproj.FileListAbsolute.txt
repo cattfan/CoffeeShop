@@ -171,4 +171,3 @@ D:\Program Files\Documents\Projects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\refin
 D:\Program Files\Documents\Projects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.pdb
 D:\Program Files\Documents\Projects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.genruntimeconfig.cache
 D:\Program Files\Documents\Projects\CoffeeShop\CoffeeShop\obj\Debug\net8.0\ref\CoffeeShop.dll
-D:\Program Files\Documents\Projects\CoffeeShop\CoffeeShop\bin\Debug\net8.0\Coffee Shop Template\assets\images\hashes.json
