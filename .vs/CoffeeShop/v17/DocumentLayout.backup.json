@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +38,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Product.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Product.cshtml",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Product.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:54:15.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Detail.cshtml",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Products\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:47:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Shop.cshtml",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Products\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:53:30.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:58:50.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-19T02:06:04.288Z",
               "EditorCaption": ""
