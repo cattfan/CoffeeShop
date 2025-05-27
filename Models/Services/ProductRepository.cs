@@ -2,7 +2,7 @@
 using Coffeeshop.Models.interfaces;
 using CoffeeShop.Models;
 
-namespace coffeeshop.Models.Services
+namespace Coffeeshop.Models.Services
 {
     public class ProductRepository : IProductRepository
     {

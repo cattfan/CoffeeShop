@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using coffeeshop.Models.Services;
+using CoffeeShop.Models.Services;
 using Coffeeshop.Models.interfaces;
 using CoffeeShop.Models;
 using Microsoft.AspNetCore.Mvc;
