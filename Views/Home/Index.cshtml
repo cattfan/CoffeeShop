@@ -50,7 +50,9 @@ id="header18-1">
                         </div>
                         <div class="item-content">
                             <h6 class="item-subtitle mbr-fonts-style mt-1 display-7">
-                                <strong>@item.Name</strong>
+                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@item.Id">
+                                    <strong>@item.Name</strong>
+                                </a>
                             </h6>
                             <p class="mbr-text mbr-fonts-style mt-3 display-7">@item.Price.ToString("c")</p>
                             <div class="mbr-section-btn item-footer mt-2">
