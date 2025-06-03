@@ -1,85 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Shop.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
-              "RelativeToolTip": "Views\\Products\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:37:22.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:36:57.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:30:49.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAQwCkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:16:35.987Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

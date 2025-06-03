@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|d:\\program files\\documents\\projects\\coffeeshop\\coffeeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A392B-E39A-43E8-B452-93A5AD9C7119}|CoffeeShop.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Shop.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
-              "RelativeToolTip": "Views\\Products\\Shop.cshtml",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:27:51.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:37:22.703Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:24:46.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:24:14.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:36:57.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwDgAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:30:49.639Z",
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:12:13.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAQwCkAAABEAAAAAAAAAA==",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Orders\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Checkout.cshtml",
+              "ToolTip": "D:\\Program Files\\Documents\\Projects\\CoffeeShop\\CoffeeShop\\Views\\Orders\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:16:35.987Z",
+              "WhenOpened": "2025-06-03T01:41:46.151Z",
               "EditorCaption": ""
             }
           ]

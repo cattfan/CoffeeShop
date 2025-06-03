@@ -17,6 +17,7 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 // Đăng ký ShoppingCartRepository và truyền IServiceProvider để GetCart có thể resolve IHttpContextAccessor
 builder.Services.AddScoped<IShoppingCartRepository>(sp => ShoppingCartRepository.GetCart(sp));
 
+builder.Services.AddScoped<CoffeeShop.Models.Interfaces.IOrderRepository, CoffeeShop.Models.Services.OrderRepository>();
 
 builder.Services.AddDbContext<CoffeeshopDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("CoffeeShopDbContextConnection")));
