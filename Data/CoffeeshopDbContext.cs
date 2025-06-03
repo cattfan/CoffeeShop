@@ -1,12 +1,13 @@
 ﻿using Coffeeshop.Models;
 using CoffeeShop.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 namespace Coffeeshop.Data
 {
-    public class CoffeeshopDbContext : DbContext
+    public class CoffeeshopDbContext : IdentityDbContext<IdentityUser, IdentityRole, string>
     {
-        public CoffeeshopDbContext(DbContextOptions<CoffeeshopDbContext> options) :
-        base(options)
+        public CoffeeshopDbContext(DbContextOptions<CoffeeshopDbContext> options) : base(options)
         {
         }
         public DbSet<Product> Products { get; set; }

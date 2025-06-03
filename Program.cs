@@ -1,9 +1,11 @@
-﻿using Coffeeshop.Data;
+using Coffeeshop.Data;
 using Coffeeshop.Models.interfaces;
 using Coffeeshop.Models.Interfaces;
 using Coffeeshop.Models.Services;
 using CoffeeShop.Models.Services;
 using Microsoft.EntityFrameworkCore;
+using CoffeeShopDbContext_CoffeeShop;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +23,12 @@ builder.Services.AddScoped<CoffeeShop.Models.Interfaces.IOrderRepository, Coffee
 
 builder.Services.AddDbContext<CoffeeshopDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("CoffeeShopDbContextConnection")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddRoles<IdentityRole>() // Thêm hỗ trợ cho roles
+    .AddEntityFrameworkStores<CoffeeshopDbContext>();
+
+//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<Data_>();
 builder.Services.AddHttpContextAccessor();
 
 // Cấu hình Session
@@ -46,12 +54,12 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+app.UseSession(); // Enable session support
 app.UseRouting();
 
-// Quan trọng: UseSession() phải được gọi TRƯỚC UseAuthorization() và MapControllerRoute()
-app.UseSession(); // Enable session support
-
+app.UseAuthentication(); // Enable authentication middleware
 app.UseAuthorization();
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",
