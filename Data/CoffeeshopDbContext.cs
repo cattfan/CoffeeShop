@@ -74,6 +74,14 @@ namespace Coffeeshop.Data
             "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp"
             }
             );
+            modelBuilder.Entity<Order>(entity =>
+            {
+                // Dòng này định nghĩa mối quan hệ một Order có nhiều OrderDetails
+                // và OrderDetail.OrderId là khóa ngoại tham chiếu đến Order.Id (khóa chính của Order)
+                entity.HasMany(o => o.OrderDetails)  // Một Order có nhiều OrderDetails
+                      .WithOne(od => od.Order)       // Mỗi OrderDetail thuộc về một Order
+                      .HasForeignKey(od => od.OrderId); // Khóa ngoại trong OrderDetail là OrderId
+            });
         }
     }
 }

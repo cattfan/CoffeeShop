@@ -1,56 +1,66 @@
 ﻿@using Coffeeshop.Models
-@model Order
+@model Order  // Đảm bảo model Order được truyền vào từ action GET Checkout nếu bạn muốn điền sẵn giá trị
 
-<form asp-action="Checkout" method="post" role="form">
+@{
+    ViewData["Title"] = "Checkout"; // Thêm dòng này nếu bạn muốn có tiêu đề cho trang
+}
+
+<form asp-controller="Orders" asp-action="Checkout" method="post" role="form">
     <section data-bs-version="5.1" class="form6 cid-tsFfsp7eqK" id="form6-n">
         <div class="container">
             <div class="mt-5">
-                <!-- Checkout Panel Information-->
                 <div class="d-flex justify-content-between align-items-center mb-4 border-bottom pb-4">
                     <h3 class="fs-5 fw-bolder m-0 lh-1">Shipping Address</h3>
                 </div>
+
+                @* Hiển thị tóm tắt lỗi validation (nếu có) *@
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
                 <div class="row">
-                    <!-- First Name-->
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <label for="firstNameBilling" class="form-label">First name</label>
-                            <input type="text" class="form-control" id="firstNameBilling" placeholder="" value="" required="">
+                            @* Sử dụng asp-for và label Tag Helper *@
+                            <label asp-for="FirstName" class="form-label"></label>
+                            <input asp-for="FirstName" class="form-control" placeholder="Enter first name" />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
                         </div>
                     </div>
 
-                    <!-- Last Name-->
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <label for="lastNameBilling" class="form-label">Last name</label>
-                            <input type="text" class="form-control" id="lastNameBilling" placeholder="" value="" required="">
+                            <label asp-for="LastName" class="form-label"></label>
+                            <input asp-for="LastName" class="form-control" placeholder="Enter last name" />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
                         </div>
                     </div>
 
-                    <!-- Email-->
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <label for="email" class="form-label">Email</label>
-                            <input type="email" class="form-control" id="email" placeholder="">
+                            <label asp-for="Email" class="form-label"></label>
+                            <input asp-for="Email" class="form-control" placeholder="Enter email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
                         </div>
                     </div>
-                    <!-- Email-->
+
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <label for="phone" class="form-label">Phone</label>
-                            <input type="tel" class="form-control" id="phone" placeholder="">
+                            <label asp-for="Phone" class="form-label"></label>
+                            <input asp-for="Phone" class="form-control" placeholder="Enter phone number" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
                         </div>
                     </div>
-                    <!-- Address-->
+
                     <div class="col-12">
                         <div class="form-group">
-                            <label for="address" class="form-label">Address</label>
-                            <input type="text" class="form-control" id="address" placeholder="123 Some Street Somewhere"></input>
+                            <label asp-for="Address" class="form-label"></label>
+                            <input asp-for="Address" class="form-control" placeholder="123 Some Street Somewhere" />
+                            <span asp-validation-for="Address" class="text-danger"></span>
                         </div>
                     </div>
-                    <!-- Address-->
                 </div>
 
-                <div class="col-auto mbr-section-btn align-center">
+                <div class="col-auto mbr-section-btn align-center mt-3">
+                    @* Thêm margin-top cho dễ nhìn *@
                     <button type="submit" class="btn btn-primary display-4">Place Order</button>
                 </div>
 
@@ -58,3 +68,10 @@
         </div>
     </section>
 </form>
+
+@* Thêm section Scripts để validation hoạt động phía client (nếu bạn chưa có) *@
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
